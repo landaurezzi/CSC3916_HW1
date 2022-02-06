@@ -13,6 +13,7 @@ server.on("request", (request, response) => {
         })
         .on("error", () => {
             response.statusCode = 400;
+            
             response.end();
         });
     response.on("error", err => {
