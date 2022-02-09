@@ -1,3 +1,3 @@
 # CSC3916 HW1
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/13cedb68f933a47e6c85?action=collection%2Fimport)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/13cedb68f933a47e6c85?action=collection%2Fimport#?env%5Becho_body%5D=W3sia2V5IjoiYm9va190aXRsZSIsInZhbHVlIjoiIiwiZW5hYmxlZCI6ZmFsc2UsInR5cGUiOiJhbnkiLCJzZXNzaW9uVmFsdWUiOiJUdXJpbmciLCJzZXNzaW9uSW5kZXgiOjB9LHsia2V5IjoiaWQiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOmZhbHNlLCJ0eXBlIjoiYW55Iiwic2Vzc2lvblZhbHVlIjoibUtudUR3QUFRQkFKIiwic2Vzc2lvbkluZGV4IjoxfSx7ImtleSI6ImVjaG9fYm9keSIsInZhbHVlIjoiaGVsbG8gd29ybGQiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6ImhlbGxvIHdvcmxkIiwic2Vzc2lvbkluZGV4IjoyfV0=)
